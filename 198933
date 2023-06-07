@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>clothes</title>
+        <meta charset="utf-8">
+        <meta name="description" content="personel website">
+        <link rel="stylesheet" href="./css/styleclothes.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div id="brand">
+                    <h1 >clothes</h1>
+                </div>
+                </header>
+                <div class="clo">
+                    
+                <img src="./images/babybluehoody.jpg" alt="image" width="200" height="300">
+               <h3>blue hoody 2800da</h3>
+                <p>2500da</p>
+                <img src="./images/basket 1.jpg"alt="image" width="200" height="300" >
+                <h3>snickers</h3>
+                 <p>3500da</p>
+                <img src="./images/khimar1.jpg" alt="image" width="200" height="300" >
+                <h3>hijab</h3>
+                <p>1000da</p>
+                <img src="./images/veste.jpg"alt="image" width="200" height="300">
+                <h3>jacket</h3>
+                <p>5000da</p>
+                <img src="./images/basket 2.jpg" alt="image" width="200" height="300" >
+                <h3>snickers</h3>
+                <p>2500da</p>
+                <img src="./images/khimar2.jpg"alt="image" width="200" height="300" >
+                <h3>hijab</h3>
+                <p>1200da</p>
+                <img src="./images/veste 2.jpg" alt="image" width="200" height="300" >
+                <h3>jacket</h3>
+                <p>6500da</p>
+                <img src="./images/pink hoody.jpg"alt="image" width="200" height="300" >
+                <h3>pink hoody</h3>
+                <p>2500da</p>
+                </div>
+    </body>
+</html>
